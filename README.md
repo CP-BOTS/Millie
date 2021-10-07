@@ -12,14 +12,7 @@
     </a>
     <a href="https://GitHub.com/CP-BOTS">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
-    </a> <br>
-    <img src="https://img.shields.io/github/license/thehamkercat/WilliamButcherBot?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/thehamkercat/WilliamButcherBot?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/thehamkercat/WilliamButcherBot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
-    <img src="https://img.shields.io/github/issues/thehamkercat/WilliamButcherBot?style=for-the-badge&logo=appveyor" alt="Issues">
-    <img src="https://img.shields.io/github/forks/thehamkercat/WilliamButcherBot?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/thehamkercat/WilliamButcherBot?style=for-the-badge&logo=appveyor" alt="Stars">
+    
 </p>
 
 <h3 align="center"> 
@@ -27,7 +20,9 @@
 </h3>
 
 <p align="center">
-    A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
+    A Support Group and ready-to-use running instance of this bot can be found on Telegram <b>
+</p>
+ <p align="center">
     <a href="https://t.me/cp_managerbot"> MILLIE </a> | 
     <a href="https://t.me/cpbotssupport"> CLOSEUP BOTS Support </a>
 </p>
@@ -48,8 +43,8 @@
 </h2>
 
 ```console
-$ git clone https://github.com/thehamkercat/WilliamButcherBot
-$ cd WilliamButcherBot
+$ git clone https://github.com/CP-BOTS/Millie
+$ cd Millie
 $ pip3 install -U -r requirements.txt
 $ cp sample_config.py config.py
 ```
@@ -79,8 +74,8 @@ $ python3 -m wbb
 </h3>
 
 ```console
-$ git clone https://github.com/thehamkercat/WilliamButcherBot
-$ cd WilliamButcherBot
+$ git clone https://github.com/CP-BOTS/Millie
+$ cd Millie
 $ pip3 install pyrogram TgCrypto
 $ python3 str_gen.py
 ```
@@ -90,8 +85,8 @@ $ python3 str_gen.py
 </h1>
 
 ```console
-$ git clone https://github.com/thehamkercat/WilliamButcherBot
-$ cd WilliamButcherBot
+$ git clone https://github.com/CP-BOTS/Millie
+$ cd Millie
 $ cp sample_config.env config.env
 ```
 
