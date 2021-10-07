@@ -1,8 +1,8 @@
 {
-    "name": "WilliamButcherBot",
+    "name": "Millie",
     "description": "Telegram Group Management Bot Written In Python Using Pyrogram.",
-    "repository": "https://github.com/TheHamkerCat/WilliamButcherBot",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+    "repository": "https://github.com/CP-BOTS/Millie",
+    "logo": "https://media.glamour.com/photos/5a90224e77c6a92acd8885db/6:7/w_2669,h_3114,c_limit/MILLIE-BOBBY-BROWN.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -11,7 +11,7 @@
     "telegram-bot",
     "pyrogram"
     ],
-    "repository": "https://github.com/TheHamkerCat/WilliamButcherBot",
+    "repository": "https://github.com/CP-BOTS/Millie",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
