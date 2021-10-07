@@ -28,8 +28,8 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/cpbotssupport"> WilliamButcherBot </a> | 
-    <a href="https://t.me/cpbotssupport"> WbbSupport </a>
+    <a href="https://t.me/cp_managerbot"> MILLIE </a> | 
+    <a href="https://t.me/cpbotssupport"> CLOSEUP BOTS Support </a>
 </p>
 
 <h2 align="center"> 
@@ -43,7 +43,7 @@
     <a href="https://telegra.ph/How-To-get-Mongodb-URI-04-06"> MongoDB URI </a>
 </p>
 
-<h2 align="center"> 
+<h2 align="left"> 
    ⇝ Install Locally Or On A VPS ⇜
 </h2>
 
@@ -54,7 +54,7 @@ $ pip3 install -U -r requirements.txt
 $ cp sample_config.py config.py
 ```
  
-<h3 align="center"> 
+<h3 align="left"> 
     Edit <b>config.py</b> with your own values
 </h3>
 
@@ -74,7 +74,7 @@ $ python3 -m wbb
     </p>
 </h1>
 
-<h3 align="center"> 
+<h3 align="left"> 
    Generating Pyrogram Session For Heroku
 </h3>
 
@@ -85,7 +85,7 @@ $ pip3 install pyrogram TgCrypto
 $ python3 str_gen.py
 ```
 
-<h1 align="center"> 
+<h1 align="left"> 
    ⇝ Docker ⇜
 </h1>
 
@@ -95,7 +95,7 @@ $ cd WilliamButcherBot
 $ cp sample_config.env config.env
 ```
 
-<h3 align="center"> 
+<h3 align="left"> 
     Edit <b> config.env </b> with your own values
 </h3>
 
@@ -104,7 +104,7 @@ $ sudo docker build . -t wbb
 $ sudo docker run wbb
 ```
 
-<h2 align="center"> 
+<h2 align="left"> 
    ⇝ Write new modules ⇜
 </h2>
 
@@ -129,6 +129,6 @@ async def some_function(_, message):
 # Many useful functions are in, wbb/utils/, wbb, and wbb/core/
 ```
 
-<h3 align="center"> 
+<h3 align="left"> 
    And put that file in wbb/modules/, restart and test your bot.
 </h3>
